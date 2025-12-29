@@ -37,12 +37,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
-### 📈 My GitHub stats
+### 📈 My GitHub activity
+<div align="center">
+  <img src="https://img.shields.io/github/followers/AbhishekPok?label=Followers&style=for-the-badge&color=24292e&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AbhishekPok?label=Total%20Stars&style=for-the-badge&color=24292e&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/Main%20Stack-DevOps%20%26%20Cloud-blue?style=for-the-badge&logo=terraform" alt="Main Stack" />
+</div>
+
+<p align="center">
+  <br/>
+  <i>Note: Detailed dynamic stats cards are currently experiencing a global service outage. <br/> Check back later for the full visual dashboard!</i>
+</p>
+
+<!-- 
+### 📈 Dynamic Stats (Backup)
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhishekPok&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekPok&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPok&layout=compact&theme=radical" alt="Top Langs" />
 </div>
+-->
 
 ### 📫 Reach me out
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhishekpokhrel001/)
