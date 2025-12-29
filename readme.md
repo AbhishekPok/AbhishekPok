@@ -39,9 +39,9 @@
 
 ### 📈 My GitHub stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekpokhrel001&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpokhrel001&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekpokhrel001&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekPok&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekPok&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekPok&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ### 📫 Reach me out
