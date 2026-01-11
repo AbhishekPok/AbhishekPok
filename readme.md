@@ -43,10 +43,7 @@
   <img src="https://img.shields.io/badge/Main%20Stack-DevOps%20%26%20Cloud-blue?style=for-the-badge&logo=terraform" alt="Main Stack" />
 </div>
 
-<p align="center">
-  <br/>
-  <i>Note: Detailed dynamic stats cards are currently experiencing a global service outage. <br/> Check back later for the full visual dashboard!</i>
-</p>
+
 
 <!-- 
 ### 📈 Dynamic Stats (Backup)
